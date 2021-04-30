@@ -1,0 +1,18 @@
+.input-group{
+    width: 250px;
+    margin: 20, 20, 20, 20;
+}
+
+#dropdownMenu{
+    background-color: white;
+    color: black;
+}
+
+.hid{
+    display: none;
+}
+
+.btn{
+    width: 60px;
+    margin: 5px 0px 0px 190px;
+}
